@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TODO-with-useReducer/static/css/main.2f4bb184.css",
+    "main.js": "/TODO-with-useReducer/static/js/main.f3a1e506.js",
+    "static/js/787.7bb32261.chunk.js": "/TODO-with-useReducer/static/js/787.7bb32261.chunk.js",
+    "index.html": "/TODO-with-useReducer/index.html",
+    "main.2f4bb184.css.map": "/TODO-with-useReducer/static/css/main.2f4bb184.css.map",
+    "main.f3a1e506.js.map": "/TODO-with-useReducer/static/js/main.f3a1e506.js.map",
+    "787.7bb32261.chunk.js.map": "/TODO-with-useReducer/static/js/787.7bb32261.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f4bb184.css",
+    "static/js/main.f3a1e506.js"
+  ]
+}
